@@ -1,0 +1,30 @@
+{
+  "name": "ripple-sign-keypair",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "lodash": "",
+    "bignumber.js": "",
+    "jsonschema": "",
+    "ripple-binary-codec": "",
+    "ripple-hashes": "",
+    "ripple-keypairs": ""
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/you21979/ripple-sign-keypair.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/you21979/ripple-sign-keypair/issues"
+  },
+  "homepage": "https://github.com/you21979/ripple-sign-keypair#readme"
+}
