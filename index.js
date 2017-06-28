@@ -1,3 +1,3 @@
 'use strict'; // eslint-disable-line strict
 
-module.exports = require('./lib/transaction/sign_keypair.js')
+module.exports = require('./lib/sign_keypairs.js')
