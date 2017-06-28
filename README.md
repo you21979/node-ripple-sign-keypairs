@@ -1,4 +1,4 @@
-# ripple-sign-keypair
+# ripple-sign-keypairs
 
 ripple transaction sign for keypairs[ public key , private key ]
 
@@ -9,7 +9,7 @@ ripple for bip39 and bip44 Hierarchy Deterministic wallet
 ## install
 
 ```
-npm i ripple-sign-keypair
+npm i ripple-sign-keypairs
 ```
 
 
