@@ -1,6 +1,6 @@
 {
   "name": "ripple-sign-keypairs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ripple transaction sign for keypairs",
   "main": "index.js",
   "directories": {
@@ -18,7 +18,12 @@
     "type": "git",
     "url": "git+https://github.com/you21979/node-ripple-sign-keypairs.git"
   },
-  "author": "",
+  "author": "Yuki Akiyama",
+  "keywords": [
+    "sign",
+    "transaction",
+    "ripple"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/you21979/node-ripple-sign-keypairs/issues"
