@@ -1,5 +1,5 @@
 {
-  "name": "ripple-sign-keypair",
+  "name": "ripple-sign-keypairs",
   "version": "1.0.0",
   "description": "ripple transaction sign for keypairs",
   "main": "index.js",
@@ -16,12 +16,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/you21979/node-ripple-sign-keypair.git"
+    "url": "git+https://github.com/you21979/node-ripple-sign-keypairs.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/you21979/node-ripple-sign-keypair/issues"
+    "url": "https://github.com/you21979/node-ripple-sign-keypairs/issues"
   },
-  "homepage": "https://github.com/you21979/node-ripple-sign-keypair#readme"
+  "homepage": "https://github.com/you21979/node-ripple-sign-keypairs#readme"
 }
