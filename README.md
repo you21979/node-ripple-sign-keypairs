@@ -1,10 +1,16 @@
 # ripple-sign-keypairs
 
-ripple transaction sign for keypairs[ public key , private key ]
+Signature library with ripple keypair
 
 ## motivation
 
-ripple for bip39 and bip44 Hierarchy Deterministic wallet
+ripple-lib can not sign with bitcoin key generation.
+You can use this library if you want to sign using derived key using bip39 or bip32.
+
+## usecase
+
+* bip39/bip44 wallet
+* bip39 multisig keysign
 
 ## install
 
