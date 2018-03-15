@@ -7,7 +7,9 @@
     "lib": "lib"
   },
   "dependencies": {
+    "big-integer": "^1.6.26",
     "ripple-binary-codec": "0.1.*",
+    "ripple-bs58check": "^2.0.0",
     "ripple-hashes": "0.3.*",
     "ripple-keypairs": "0.10.*"
   },
