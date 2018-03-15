@@ -1,5 +1,9 @@
 # ripple-sign-keypairs
 
+[![NPM](https://nodei.co/npm/ripple-sign-keypairs.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/ripple-sign-keypairs)  
+[![Build Status](https://secure.travis-ci.org/you21979/node-ripple-sign-keypairs.png?branch=master)](https://travis-ci.org/you21979/node-ripple-sign-keypairs)
+[![Coverage Status](https://coveralls.io/repos/github/you21979/node-ripple-sign-keypairs/badge.svg?branch=master)](https://coveralls.io/github/you21979/node-ripple-sign-keypairs?branch=master)
+
 Signature library with ripple keypair
 
 ## motivation
